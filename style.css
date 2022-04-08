@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    background-color: white;
+}
+
+.font {
+    font-size: 18px;
+    font-color: hsl(215, 51%, 70%);
+}
+
+.eft-card {
+    height: 1000px;
+    width: 650px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 5%;
+    font-family: 'Outfit', sans-serif;
+    box-shadow: 2.5px 5px 5px 2.5px rgb(1, 1, 44);
+    margin:auto;
+    margin-top: 15%;
+}
+
+.eft-name {
+    color: white;
+    text-align: left;
+    margin-left: 25px;
+}
+
+.eft-name:hover {
+    color:hsl(178, 100%, 50%);
+}
+
+.eft-body {
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.main-paragraph {
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.eft-image {
+    border-radius: 5%;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.eth-value {
+    color: hsl(178, 100%, 50%);
+    margin-left: 75px;
+}
+
+.time-left {
+    color:hsl(215, 51%, 70%);
+    margin-left: 300px;
+}
+
+.line {
+    border-color:hsl(215, 51%, 70%);
+    text-align: center;
+}
+
+.creator {
+    text-align: center;
+}
+
+.creator-tag {
+    color: white;
+}
+
+.creator-tag:hover {
+    color:hsl(178, 100%, 50%);
+}
